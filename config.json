@@ -20,5 +20,32 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "성곡도서관": {
+      "style": "stone",
+      "wall": "#ddd1c1",
+      "glass": "#435e61",
+      "frame": "#9a999e"
+    },
+    "예술관": {
+      "style": "stone",
+      "wall": "#c0c1c8",
+      "glass": "#5e7087",
+      "frame": "#d8d8dc"
+    },
+    "조형관": {
+      "style": "brick",
+      "wall": "#94604a",
+      "glass": "#4f6670",
+      "frame": "#b9b4b4"
+    },
+    "미래관": {
+      "style": "stone",
+      "wall": "#cf857c",
+      "glass": "#5e6e93",
+      "frame": "#dcdcdc"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
