@@ -1,0 +1,34 @@
+{
+ "region": "서울 성북구 정릉동",
+ "nameEn": "Kookmin University",
+ "added": "2026-10-16",
+ "rank": 102,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SKUNIV",
+   "campus": "서경대학교",
+   "km": 1.5
+  },
+  {
+   "code": "SKKU",
+   "campus": "성균관대학교 인문사회과학캠퍼스",
+   "km": 2.7
+  },
+  {
+   "code": "SUNGSHIN",
+   "campus": "성신여자대학교 돈암수정캠퍼스",
+   "km": 3.2
+  },
+  {
+   "code": "HANSUNG",
+   "campus": "한성대학교",
+   "km": 3.5
+  },
+  {
+   "code": "SUNGSHIN-UNJEONG",
+   "campus": "성신여자대학교 미아운정그린캠퍼스",
+   "km": 3.6
+  }
+ ]
+}
